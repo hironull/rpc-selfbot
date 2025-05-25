@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "axios": "^1.7.7",
+    "bip32": "^5.0.0-rc.0",
+    "bip39": "^3.1.0",
+    "bitcoinjs-lib": "^7.0.0-rc.0",
+    "crypto": "^1.0.1",
+    "discord.js-selfbot-v13": "^3.4.0",
+    "ecpair": "^3.0.0-rc.0",
+    "express": "^4.21.2",
+    "mathjs": "^14.0.0",
+    "qrcode": "^1.5.4",
+    "qs": "^6.13.0",
+    "tesseract.js": "^5.1.1",
+    "tiny-secp256k1": "^2.2.3"
+  }
+}

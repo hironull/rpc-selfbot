@@ -1,0 +1,29 @@
+{
+    "token": "",
+    "prefix": ".",
+    "tatum_api_key": "",
+    "ltc_format": "ltc",
+    "address_format": "legacy",
+    "state": "ғʀᴏɴᴛᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ",
+    "name": "Tatsumi",
+    "details": "ᴍᴀᴋɪɴɢ ᴡᴇʙsɪᴛᴇs",
+    "payment": {
+        "notify": true,
+        "webhook": ""
+    },
+    "buttons": [
+        {
+            "text": "Hexra.cloud",
+            "url": "https://hexra.cloud"
+        },
+        {
+            "text": "Discord",
+            "url": "https://https://discord.com/invite/ktw2WwkbSh"
+        }
+    ],
+    "largeImageUrl": "kroxysmall",
+    "html": {
+        "port": 6969,
+        "ip": "your ip > make sure to open the port"
+    }
+}
