@@ -1,29 +1,29 @@
 {
-    "token": "",
-    "prefix": ".",
-    "tatum_api_key": "",
-    "ltc_format": "ltc",
-    "address_format": "legacy",
-    "state": "ғʀᴏɴᴛᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ",
-    "name": "Tatsumi",
-    "details": "ᴍᴀᴋɪɴɢ ᴡᴇʙsɪᴛᴇs",
-    "payment": {
-        "notify": true,
-        "webhook": ""
+  "token": "your token here",
+  "prefix": "your prefix here",
+  "tatum_api_key": "your tatum api key here",
+  "ltc_format": "ltc",
+  "address_format": "legacy",
+  "state": "your status here",
+  "name": "your name here",
+  "details": "your details here",
+  "payment": {
+    "notify": true,
+    "webhook": "your payment webhook url here"
+  },
+  "buttons": [
+    {
+      "text": "your button text here",
+      "url": "https://your-button-url-here"
     },
-    "buttons": [
-        {
-            "text": "Hexra.cloud",
-            "url": "https://hexra.cloud"
-        },
-        {
-            "text": "Discord",
-            "url": "https://https://discord.com/invite/ktw2WwkbSh"
-        }
-    ],
-    "largeImageUrl": "kroxysmall",
-    "html": {
-        "port": 6969,
-        "ip": "your ip > make sure to open the port"
+    {
+      "text": "your button text here",
+      "url": "https://your-button-url-here"
     }
+  ],
+  "largeImageUrl": "your large image key here",
+  "html": {
+    "port": 6969,
+    "ip": "your ip here"
+  }
 }
