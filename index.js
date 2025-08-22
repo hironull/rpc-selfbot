@@ -1848,7 +1848,7 @@ if (command === 'fto') {
 
 if (command === 'help') {
     const helpMessage = `
-# 🌟 **[RPC-Selfbot COMMANDS](https://selfbot.in)** 🌟  
+# 🌟 **[RPC-Selfbot COMMANDS](https://hironull.lol)** 🌟  
 
 ### ⚙️ **Categories**
 - **wallet**: Wallet Management
@@ -2601,6 +2601,7 @@ client.on('messageDelete', async (message) => {
     fs.writeFileSync(logFilePath, JSON.stringify(logs, null, 2));
 }catch(error){}
 });
+
 
 
 
